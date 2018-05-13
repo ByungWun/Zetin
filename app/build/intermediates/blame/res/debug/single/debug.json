@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_button.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\search_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\menu_first.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\menu\\first.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_intro.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_selected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\ic_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_finish_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\layout\\activity_finish_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_btnbkg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\btnbkg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_map.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_androidrobot.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\androidrobot.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\menu_prepare.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\menu\\prepare.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\menu_calibrate_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\menu\\calibrate_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_unselected.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\ic_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_map2.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\map2.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_navigation_icon.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\navigation_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\menu_destset.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\menu\\destset.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_back.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\back.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_destset.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\layout\\activity_destset.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_buttonbg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\buttonbg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\menu_intro.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\menu\\intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_loading.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\loading.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_btnbkg.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-ldpi\\btnbkg.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_calibrate_dialog.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\layout\\activity_calibrate_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\layout_pois_list_item.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\layout\\pois_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\menu_navi.xml.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\menu\\navi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_compass_calibration8.png.flat",
+        "source": "C:\\Users\\Administrator\\Desktop\\chat\\Zetin\\app\\src\\main\\res\\drawable-mdpi\\compass_calibration8.png"
+    }
+]
