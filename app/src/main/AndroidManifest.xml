@@ -24,10 +24,10 @@
             android:name=".beaconNActivities.IntroActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
-            <intent-filter>
+            <intent-filter> <!-- 특정 인텐트를 받을지 말지를 정의하는 역할을 수행하며, 이를 통해 컴포넌트의 특징이 정해진다 -->
                 <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.LAUNCHER" />  <!-- 시작 액티비티로 임명 -->
             </intent-filter>
         </activity>
         <activity android:name=".beaconNActivities.MainActivity"

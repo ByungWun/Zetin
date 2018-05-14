@@ -21,7 +21,7 @@ public class IntroActivity extends Activity {
 				} catch (Throwable ex) {
 					ex.printStackTrace();
 				}
-				Intent i = new Intent(IntroActivity.this, MainActivity.class);
+				Intent i = new Intent(IntroActivity.this, MainActivity.class); //실행될 메인 액티비티를 써준 것이다.
 				startActivity(i);
 				finish();
 			}

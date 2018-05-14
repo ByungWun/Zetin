@@ -191,14 +191,15 @@ public class MainActivity extends ListActivity implements SensorEventListener,On
 	private void EnableBluetooth(){	//
 		if (mBluetoothAdapter == null || !mBluetoothAdapter.isEnabled()) {
 			Intent enableBtIntent = new Intent(BluetoothAdapter.ACTION_REQUEST_ENABLE);
-			startActivityForResult(enableBtIntent, REQUEST_ENABLE_BT);
+			startActivityForResult(enableBtIntent, REQUEST_ENABLE_BT); //onActivityResult로 전달 --> 두번째 인자를 requestcode로.
 			
 		}
 	}
 
 
 	/**
-	 * 앱의 초기화를 구현하고, 앱의 전체 실행에서 처음에 한번만 실행될 코드를 이곳에다가 구현.
+	 * 액티비티가 생성되고 가장 첫번째로 호출된다.
+	 * 앱의 필수구성요소의 초기화를 구현하고, 앱의 전체 실행에서 처음에 한번만 실행될 코드를 이곳에다가 구현.
 	 * @param savedInstanceState
 	 */
 	@Override
@@ -229,9 +230,9 @@ public class MainActivity extends ListActivity implements SensorEventListener,On
 		img2.startAnimation(animation);
 
 		/* 센서 등록 */
-		mSensorManager = (SensorManager) getSystemService(SENSOR_SERVICE);
-		mAccel = mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
-		mMagnet = mSensorManager.getDefaultSensor(Sensor.TYPE_MAGNETIC_FIELD);
+		mSensorManager = (SensorManager) getSystemService(SENSOR_SERVICE); //센서에 대한 접근 가능하게 해줌
+		mAccel = mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER); //onResume()에서 등록할 가속도 센서의 기본센서
+		mMagnet = mSensorManager.getDefaultSensor(Sensor.TYPE_MAGNETIC_FIELD); //onResume()에서 등록할 자기장 센서의 기본센서
 
 		/* 가속도 센서의 x,y,z값 */
 		Norm_Acc = new double[10];
@@ -378,7 +379,8 @@ public class MainActivity extends ListActivity implements SensorEventListener,On
 	}
 
 	/**
-	 * OptionMenu가 최초로 생성될 때만 호출 된다.
+	 * OptionMenu가 최초로 생성될 때만 호출 된다. 정적메뉴 구성에 유리.
+	 * res >> menu의 옵션메뉴를 객체화한다.
 	 * 그 이후에는 OptionMenu가 화면에 나타날 경우
 	 * onPrepareOptionsMenu()만 호출 된다.
 	 * Activity가 onDestory()될 때 OptionMenu도 Destory 된다.
@@ -390,7 +392,7 @@ public class MainActivity extends ListActivity implements SensorEventListener,On
 
 
 	/**
-	 * 스크린에 맞는 OptionMenu를 화면에 표시하기 위해 준비할 때 호출 된다.
+	 * 스크린에 맞는 OptionMenu를 화면에 표시하기 위해 준비할 때 호출 된다. 동적 메뉴 구성에 유리.
 	 * 옵션메뉴가 화면에 나타날 때마다 호출 된다.
 	 */
 	@Override
@@ -481,7 +483,7 @@ public class MainActivity extends ListActivity implements SensorEventListener,On
 	 */
 	protected void onResume(){
 		super.onResume();
-		mSensorManager.registerListener(this, mAccel, SensorManager.SENSOR_DELAY_GAME);
+		mSensorManager.registerListener(this, mAccel, SensorManager.SENSOR_DELAY_GAME); //센서에 대한 리스너 등록
 		mSensorManager.registerListener(this, mMagnet, SensorManager.SENSOR_DELAY_UI);
 		scanLeDevice(true);        
 	}
