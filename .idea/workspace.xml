@@ -7,260 +7,68 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49f43d17-613f-4297-8760-75d44db5cbdb" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileChanges/last-build.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileContent/fileContent.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/resourceHashesCache.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/classAnalysis.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/jarAnalysis.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/javaCompile.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/taskHistory.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/javaCompile/taskJars.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Administrator_Desktop_chat_Zetin_app_libs_android_support_v13_jar_unspecified_jar.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Zetin.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/Zetin/BuildConfig.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/generated/source/r/debug/com/Zetin/R.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/debug.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v11.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-v14.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values-w820dp-v13.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi-v2/values.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/debug.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/BuildConfig.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/R$dimen.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/R$drawable.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/R$id.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/R$layout.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/R$menu.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/R$string.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/R$style.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/R.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/BeaconInfo.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/BeaconSignal.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/CalibrateDialog.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/DestsetActivity$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/DestsetActivity$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/DestsetActivity$ListViewItemOnClickListener.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/DestsetActivity.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/FinishDialog.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/IntroActivity$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/IntroActivity.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/MainActivity$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/MainActivity$2.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/MainActivity$3.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/MainActivity$4$1.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/MainActivity$4.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/MainActivity$ViewHolder.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/MainActivity.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/beaconNActivities/MyView.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/databases/BeaconsDbOpenHelper$DatabaseHelper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/databases/BeaconsDbOpenHelper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/databases/Databases$CreateBeaconsDB.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/databases/Databases$CreateEdgesDB.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/databases/Databases$CreatePoisDB.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/databases/Databases.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/databases/EdgesDbOpenHelper$EdgesDatabaseHelper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/databases/EdgesDbOpenHelper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/databases/PoisDbOpenHelper$PoisDatabaseHelper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/Zetin/databases/PoisDbOpenHelper.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/getDirection/DijkstraAlgorithm.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/getDirection/Edge.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/getDirection/Graph.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/getDirection/TestDijkstraAlgorithm.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/getDirection/Vertex.class" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/compileDebugAidl/dependency.store" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/merge-state" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJavaRes/zip-cache/AYG4oNdlwbr0r73cY7eLVSVpCnA=" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/merge-state" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/debug-mergeJniLibs/zip-cache/AYG4oNdlwbr0r73cY7eLVSVpCnA=" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugJniLibFolders/merger.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/compile-file-map.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v11/values-v11.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v14/values-v14.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugShaders/merger.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/9n3hu1K1Gte1_lxyY6OcNqBY5tU=" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/F5ru6MezaU7EMI79Stxd7DSas+4=" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/javaPrecompile/debug/annotationProcessors.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/density/debug/output.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/output.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/instant-run/debug/output.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/output.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_launcher.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldpi_btnbkg.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_androidrobot.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_back.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_btnbkg.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_buttonbg.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_compass_calibration8.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_launcher.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_selected.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_unselected.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_icon.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_loading.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_map.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_map2.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_navigation_icon.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi_search_button.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_launcher.png.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_calibrate_dialog.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_destset.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_finish_dialog.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_intro.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout_pois_list_item.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_calibrate_dialog.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_destset.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_first.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_intro.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_main.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_navi.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/menu_prepare.xml.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v11_values-v11.arsc.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-v14_values-v14.arsc.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values-w820dp-v13_values-w820dp-v13.arsc.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values_values.arsc.flat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/splits-support/debug/apk-list/apk-list.gson" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/splits-support/debug/split-list/split-list.gson" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/BuildConfig.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$dimen.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$drawable.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$id.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$layout.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$menu.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$string.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$style.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/BeaconInfo.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/BeaconSignal.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/CalibrateDialog.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/DestsetActivity$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/DestsetActivity$2.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/DestsetActivity$ListViewItemOnClickListener.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/DestsetActivity.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/FinishDialog.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/IntroActivity$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/IntroActivity.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$2.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$3.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$4$1.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$4.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$ViewHolder.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MyView.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/BeaconsDbOpenHelper$DatabaseHelper.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/BeaconsDbOpenHelper.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/Databases$CreateBeaconsDB.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/Databases$CreateEdgesDB.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/Databases$CreatePoisDB.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/Databases.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/EdgesDbOpenHelper$EdgesDatabaseHelper.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/EdgesDbOpenHelper.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/PoisDbOpenHelper$PoisDatabaseHelper.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/PoisDbOpenHelper.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/getDirection/DijkstraAlgorithm.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/getDirection/Edge.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/getDirection/Graph.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/getDirection/TestDijkstraAlgorithm.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/getDirection/Vertex.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/externalLibsDexMerger/debug/__content__.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/0.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJavaRes/debug/__content__.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/mergeJniLibs/debug/__content__.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/app-debug.apk" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/outputs/apk/debug/output.json" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/libs/android-support-v13.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/beaconNActivities/BeaconInfo.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/beaconNActivities/BeaconSignal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/beaconNActivities/CalibrateDialog.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/beaconNActivities/DestsetActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/beaconNActivities/FinishDialog.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/beaconNActivities/IntroActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/beaconNActivities/MainActivity.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/beaconNActivities/MyView.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/databases/BeaconsDbOpenHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/databases/Databases.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/databases/EdgesDbOpenHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/Zetin/databases/PoisDbOpenHelper.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/getDirection/DijkstraAlgorithm.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/getDirection/Edge.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/getDirection/Graph.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/getDirection/TestDijkstraAlgorithm.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/com/getDirection/Vertex.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-hdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-ldpi/btnbkg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/androidrobot.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/back.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/btnbkg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/buttonbg.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/compass_calibration8.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_selected.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/ic_unselected.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/loading.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/map.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/map2.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/navigation_icon.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-mdpi/search_button.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/drawable-xxhdpi/ic_launcher.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_calibrate_dialog.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_destset.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_finish_dialog.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_intro.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/pois_list_item.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/calibrate_dialog.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/destset.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/first.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/intro.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/main.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/navi.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/menu/prepare.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-v11/styles.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-v14/styles.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values-w820dp/dimens.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/dimens.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/values/styles.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/import-summary.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/fileHashes/fileHashes.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.bin" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.4.1/taskHistory/taskHistory.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_Administrator_Desktop_chat_Zetin_app_libs_android_support_v13_jar_unspecified_jar.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/dex-renamer-state.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/file-input-save-data.txt" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/9n3hu1K1Gte1_lxyY6OcNqBY5tU=" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/tmp/debug/zip-cache/9n3hu1K1Gte1_lxyY6OcNqBY5tU=" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/debug/resources-debug.ap_" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/0.jar" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/BuildConfig.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$dimen.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$drawable.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$id.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$layout.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$menu.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$string.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R$style.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/R.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/BeaconInfo.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/BeaconSignal.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/CalibrateDialog.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/DestsetActivity$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/DestsetActivity$2.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/DestsetActivity$ListViewItemOnClickListener.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/DestsetActivity.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/FinishDialog.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/IntroActivity$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/IntroActivity.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$2.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$3.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$4$1.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$4.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity$ViewHolder.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MainActivity.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/beaconNActivities/MyView.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/BeaconsDbOpenHelper$DatabaseHelper.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/BeaconsDbOpenHelper.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/Databases$CreateBeaconsDB.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/Databases$CreateEdgesDB.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/Databases$CreatePoisDB.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/Databases.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/EdgesDbOpenHelper$EdgesDatabaseHelper.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/EdgesDbOpenHelper.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/PoisDbOpenHelper$PoisDatabaseHelper.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/Zetin/databases/PoisDbOpenHelper.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/getDirection/DijkstraAlgorithm.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/getDirection/Edge.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/getDirection/Graph.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/getDirection/TestDijkstraAlgorithm.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/1/com/getDirection/Vertex.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexBuilder/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/0/classes.dex" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dexMerger/debug/__content__.json" />
+      <change beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/externalLibsDexMerger/debug/0/classes.dex" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -274,13 +82,20 @@
       <ProjectState />
     </projectState>
   </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+            <state relative-caret-position="589">
+              <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
               <folding />
             </state>
           </provider>
@@ -297,12 +112,12 @@
   <component name="GradleLocalSettings">
     <option name="myGradleHomes">
       <map>
-        <entry key="$PROJECT_DIR$" value="C:\Users\Administrator\.gradle\wrapper\dists\gradle-4.4.1-all\2kpyt0ea6hyxavvt21uml23gd\gradle-4.4.1" />
+        <entry key="$PROJECT_DIR$" value="C:\Users\Administrator\.gradle\wrapper\dists\gradle-4.4-all\9br9xq1tocpiv8o6njlyu5op1\gradle-4.4" />
       </map>
     </option>
     <option name="myGradleVersions">
       <map>
-        <entry key="$PROJECT_DIR$" value="4.4.1" />
+        <entry key="$PROJECT_DIR$" value="4.4" />
       </map>
     </option>
     <option name="availableProjects">
@@ -1023,7 +838,6 @@
                 <option name="name" value="bundleAppClassesDebugAndroidTest" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Deletes the build directory." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="clean" />
               </ExternalTaskPojo>
@@ -1858,8 +1672,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.0/2a16263739ae9bdd90c86b12ac578a06714ddd50/compilerCommon-3.1.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.2.0/3d425bfaaa7f8b1affb652c4257aa57e6597e163/kotlin-stdlib-jre8-1.2.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.2.0/505f55b9619bbc5f5e26c77427dd24a6a441eef1/kotlin-stdlib-jre8-1.2.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/e4075c49e16e086140fe40eea56b2de7516874ee/transform-api-2.0.0-deprecated-use-gradle-api-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/85bee1acea9e27152b920746c68133b30b11431/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/f18536c1fe08673c69e869be170759616a9df16/transform-api-2.0.0-deprecated-use-gradle-api-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/47f6c56527c42425742fa9b56ffd3fd80763fe03/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-5.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.1/5ef31c4fe953b1fd00b8a88fa1d6820e8785bb45/asm-5.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-analysis-5.1-sources.jar" />
@@ -2010,8 +1824,8 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.databinding/compilerCommon/3.1.0/2a16263739ae9bdd90c86b12ac578a06714ddd50/compilerCommon-3.1.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.2.0/3d425bfaaa7f8b1affb652c4257aa57e6597e163/kotlin-stdlib-jre8-1.2.0-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jre8/1.2.0/505f55b9619bbc5f5e26c77427dd24a6a441eef1/kotlin-stdlib-jre8-1.2.0.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/e4075c49e16e086140fe40eea56b2de7516874ee/transform-api-2.0.0-deprecated-use-gradle-api-sources.jar" />
-                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/85bee1acea9e27152b920746c68133b30b11431/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/f18536c1fe08673c69e869be170759616a9df16/transform-api-2.0.0-deprecated-use-gradle-api-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.android.tools.build/transform-api/2.0.0-deprecated-use-gradle-api/47f6c56527c42425742fa9b56ffd3fd80763fe03/transform-api-2.0.0-deprecated-use-gradle-api.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-5.1-sources.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm/5.1/5ef31c4fe953b1fd00b8a88fa1d6820e8785bb45/asm-5.1.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.ow2.asm/asm-analysis/5.1/81e81bd6c20b965f88d0462e2559f8759fc6c26d/asm-analysis-5.1-sources.jar" />
@@ -2330,63 +2144,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
-      <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="AndroidView">
         <subPane>
           <expand>
-            <path>
-              <item name="Zetin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-            </path>
-            <path>
-              <item name="Zetin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="manifests" type="f94875db:AndroidManifestsGroupNode" />
-            </path>
-            <path>
-              <item name="Zetin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="Zetin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zetin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="Zetin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="resources" type="edd41e36:AndroidSourceTypeNode" />
-            </path>
-            <path>
-              <item name="Zetin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="resources" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zetin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="resources" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="Zetin" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Zetin" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="resources" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="com" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="Zetin" type="462c0819:PsiDirectoryNode" />
-              <item name="databases" type="462c0819:PsiDirectoryNode" />
-            </path>
             <path>
               <item name="Zetin" type="1abcf292:AndroidViewProjectNode" />
               <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
@@ -2395,14 +2156,16 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="device.picker.selection" value="Nexus_5X_API_P" />
+    <property name="device.picker.selection" value="ELD7N16C25000149" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2585,36 +2348,37 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960895" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2627,8 +2391,24 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="24" column="44" lean-forward="false" selection-start-line="24" selection-start-column="44" selection-end-line="24" selection-end-column="44" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="31" column="19" lean-forward="true" selection-start-line="31" selection-start-column="19" selection-end-line="31" selection-end-column="19" />
           <folding />
         </state>
       </provider>
