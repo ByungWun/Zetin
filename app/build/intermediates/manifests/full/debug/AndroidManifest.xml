@@ -3,7 +3,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.Zetin"
     android:versionCode="1"
-    android:versionName="1.0" >
+    android:versionName="1.1" >
 
     <uses-sdk
         android:minSdkVersion="18"
@@ -58,7 +58,7 @@
             android:label="@string/title_activity_first" >
         </activity>
         <!--
-             <activity
+        <activity
             android:name=".IntroActivity"
             android:label="@string/title_activity_intro" >
         </activity>

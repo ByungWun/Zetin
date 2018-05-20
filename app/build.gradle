@@ -17,7 +17,6 @@ android { //안드로이드와 관련된 빌드 설정은 이곳에서 세팅됨
         }
     }
 }
-
 dependencies { //라이브러리와 같은 의존성 추가 시 이곳에 작성.
     //compile files('libs/android-support-v13.jar') //2018에러 (compile --> implementation으로 수정)
     implementation files('libs/android-support-v13.jar')

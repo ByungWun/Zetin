@@ -2,7 +2,8 @@
 
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     android:versionCode="1"
-    android:versionName="1.0" package="com.Zetin">
+    android:versionName="1.1"
+    package="com.Zetin">
 
     <uses-sdk
         android:minSdkVersion="18"
@@ -21,24 +22,27 @@
         android:label="@string/app_name"
         android:theme="@android:style/Theme.NoTitleBar" >
         <activity
-            android:name=".beaconNActivities.IntroActivity"
+            android:name="com.Zetin.beaconNActivities.IntroActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait" >
-            <intent-filter> <!-- 특정 인텐트를 받을지 말지를 정의하는 역할을 수행하며, 이를 통해 컴포넌트의 특징이 정해진다 -->
+            <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
-                <category android:name="android.intent.category.LAUNCHER" />  <!-- 시작 액티비티로 임명 -->
+                <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".beaconNActivities.MainActivity"
+        <activity
+            android:name="com.Zetin.beaconNActivities.MainActivity"
             android:screenOrientation="portrait">
         </activity>
-        <activity android:name="com.Zetin.beaconNActivities.BeaconInfoActivity" >
-        </activity>
-        <activity android:name=".beaconNActivities.BeaconSignal" >
+        <activity
+            android:name="com.Zetin.beaconNActivities.BeaconInfoActivity" >
+
         </activity>
         <activity
-            android:name=".beaconNActivities.CalibrateDialog"
+            android:name="com.Zetin.beaconNActivities.BeaconSignal" >
+        </activity>
+        <activity
+            android:name="com.Zetin.beaconNActivities.CalibrateDialog"
             android:label="@string/title_activity_calibrate_dialog" >
         </activity>
         <activity
@@ -46,14 +50,14 @@
             android:label="@string/title_activity_navi" >
         </activity>
         <activity
-            android:name=".beaconNActivities.DestsetActivity"
+            android:name="com.Zetin.beaconNActivities.DestsetActivity"
             android:label="@string/title_activity_destset" >
         </activity>
         <activity
             android:name="com.Zetin.beaconNActivities.FirstActivity"
             android:label="@string/title_activity_first" >
         </activity>
-<!--         <activity
+        <!--<activity
             android:name=".IntroActivity"
             android:label="@string/title_activity_intro" >
         </activity> -->

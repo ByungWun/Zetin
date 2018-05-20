@@ -581,15 +581,15 @@ public class MainActivity extends ListActivity implements SensorEventListener,On
 		TextView deviceMinor;
 	}
 
-	float[] mGeomagnetic;
-	float[] mGravity;
-	//float[] mRot;
-
-
 	/**
 	 * SensorEventListener 오브젝트에는 onSensorChanged()와 onAccuracyChanged() 메소드를 구현해 줘야 한다.
 	 * 센서 값이 바뀔때마다 리스너 오브젝트의 onSensorChanged() 메소드가 호출된다.
 	 */
+
+	float[] mGeomagnetic;
+	float[] mGravity;
+	//float[] mRot;
+
 	@Override
 	public void onSensorChanged(SensorEvent event) {
 		float azimut;
@@ -599,11 +599,11 @@ public class MainActivity extends ListActivity implements SensorEventListener,On
 			toast.setGravity(Gravity.CENTER, 0, 0);
 			//toast.show();
 		}
-		if (event.sensor.getType() == Sensor.TYPE_ACCELEROMETER){
+		if (event.sensor.getType() == Sensor.TYPE_ACCELEROMETER){ //센서가 읽어들인 값이 가속도일때
 			//mGravity = event.values;
 			mGravity = lowPass(event.values.clone(), mGravity, 0.2f);
 		}
-		if (event.sensor.getType() == Sensor.TYPE_MAGNETIC_FIELD){
+		if (event.sensor.getType() == Sensor.TYPE_MAGNETIC_FIELD){ //센서가 읽어들인 값이 자기장일때
 			//mGeomagnetic = event.values;
 			mGeomagnetic = lowPass(event.values.clone(), mGeomagnetic, 0.5f);
 		}
